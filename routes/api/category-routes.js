@@ -31,7 +31,7 @@ router.get('/:id', async (req, res) => {
       return
     }
 
-    res.status(200).json(catergory)
+    res.status(200).json(category)
   } catch (err) {
     res.status(500).json(err)
   }
