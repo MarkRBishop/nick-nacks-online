@@ -8,8 +8,13 @@ This was a fun little project to build api based inventory system that is custom
 
 ## Links
 
- video tutorial on the basic uses of the application
+ Video tutorial on the basic uses of the application
+
  https://drive.google.com/file/d/1XhlpbTb_-AWlqGsyM6r5Saq_J7xBKOTG/view
+
+ Link to the repository
+
+ https://github.com/MarkRBishop/nick-nacks-online
 
 ## Getting started
 
